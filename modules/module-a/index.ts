@@ -13,11 +13,7 @@ export default defineNuxtModule({
         path: '/module-a',
         file: path.resolve(__dirname, './pages/index.vue'),
       })
-    },
-    // COMPOSABLES
-    'autoImports:dirs'(dirs) {
-      dirs.push(path.resolve(__dirname, './composables'))
-    },
+    }
   },
   async setup(moduleOptions, nuxt) {
     // -- Add your module logic here --
