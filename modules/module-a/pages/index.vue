@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Module A</h2>
+    <h2>{{$t('hi')}} Module A</h2>
     <Article />
   </div>
 </template>

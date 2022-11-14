@@ -1,0 +1,603 @@
+{
+  "hi":"bonjour nuxt",
+  "languageCreate": "Créer une nouvelle langue",
+  "addCategory": "Créer une nouvelle catégorie",
+  "Billed_To": "Au nom de ",
+  "titlePdfPage": "PDF generator",
+  "preview": "Aperçu",
+  "page":"Page",
+  "of":"sur",
+  "Subtotal":"Total brut",
+  "table": {
+    "pager": {
+      "page": "Page"
+    },
+    "filters": {
+      "ALL": "Tous",
+      "UNPUBLISHED": "Non Publié",
+      "PUBLISHED": "Publié",
+      "B2B": "B2B",
+      "B2C": "B2C",
+      "SMS": "SMS",
+      "MESSAGE": "Message",
+      "noFilter": ""
+    }
+  },
+  "menu": {
+    "review": "Review",
+    "build": "Build",
+    "engage": "Engage",
+    "run": "Run",
+    "config": "Config"
+  },
+  "insertManage": "Insérez et gérez vos ",
+  "easlyquick": " facilement et rapidement !",
+  "languageTitle": "Langues",
+  "back": "Retour",
+  "languageAll": "Toutes les langues",
+  "languageSearch": "Rechercher langue",
+  "languageNoData": "Aucune langue trouvée",
+  "code": "Code",
+  "name": "Libellé",
+  "save": "Sauvegarder",
+  "cancel": "Annuler",
+  "key": "Clé",
+  "type": "Type",
+  "title": "Titre",
+  "group": "Groupe",
+  "add": "Ajouter",
+  "edit": "Modifier",
+  "delete": "Effacer",
+  "languageAddTitle": "Langue",
+  "languageSelect": "Langue",
+  "image": "Image",
+  "imageHover": "Image hover",
+  "languageEdit": "Editer une langue",
+  "required": "Ce champ est obligatoire",
+  "error": "Erreur du serveur",
+  "success": "Succès",
+  "addCategories": "Créer une Catégorie",
+  "all": "Tous",
+  "published": "Publié",
+  "unpublished": "Non publié",
+  "picto": "Picto",
+  "arrayName": "Nom",
+  "updated": "Modifié le",
+  "created": "Crée par",
+  "numberoflines": "Nombre de lignes",
+  "selected": "Eléments sélectionnés",
+  "publish": "Publier",
+  "unpublish": "Dépublier",
+  "activated": "Activé",
+  "deactivated": "Desactivé",
+  "send": "Envoyer",
+  "sureDelete": "Voulez-vous vraiment supprimer ?",
+  "sureActivated": "Voulez-vous vraiment activé ?",
+  "sureDeactivated": "Voulez-vous vraiment desactivé ?",
+  "surePublish": "Voulez-vous vraiment publié ?",
+  "sureUnpublish": "Voulez-vous vraiment dépublier ?",
+  "notAvailable": "Non disponible",
+  "upload": "Upload",
+  "dateFormat": "MM/DD/YYYY HH:mm",
+  "build": {
+    "title": "Build",
+    "description": "Insérez et gérez votre contenu de manière simple et rapide !",
+    "offers": "Offres",
+    "services": "Services",
+    "credit": "Crédit",
+    "packages": "Forfaits",
+    "variables": "Variables",
+    "category": "Demande catégorie",
+    "offersFamilies": "Familles d'offres",
+    "optionFamily": "Familles d'option",
+    "options": "Options",
+    "loyalty": "Fidélités",
+    "offerService": "Services d'offre",
+    "loyaltyDescription": "Paramétrage des Fidélités",
+    "optionsDescription": "Paramétrage des options",
+    "loyaltyFamily": "Familles de fidélités",
+    "offersDescription": "Paramétrage des Offres mobile à proposer au client",
+    "servicesDescription": "Paramétrage des services mobile à proposer au client",
+    "creditDescription": "Paramétrer les promotions sur les offres et services Mobile",
+    "packagesDescription": "Paramétrage des forfait mobile à proposer au client",
+    "variablesDescription": "Paramétrage des Variables",
+    "categoryDescription": "Paramétrage des catégorie",
+    "offersFamiliesDescription": "Paramétrage des familles d'offres",
+    "optionFamilyDescription": "Paramétrage des familles d'option",
+    "loyaltyFamilyDescription": "Paramétrage des familles de fidélités",
+    "offerServiceDescription": "Paramétrage des services d'offre"
+  },
+  "engage": {
+    "title": "Engage",
+    "description": "Insérez et gérez votre contenu de manière simple et rapide",
+    "media": "Médias et bannières",
+    "campaign": "Campagne et communication",
+    "mediaDescription": "Paramétrage des Bannières (Consulter les bannières paramétrées, ajout, modification, suppression, publication… des bannières/médias)",
+    "campaignDescription": "Paramétrage des campagnes de communications avec le message à envoyer, le canal... (ajout, modification et suppression)"
+  },
+  "config": {
+    "title": "Config",
+    "description": "Insérez et gérez votre contenu de manière simple et rapide",
+    "modules": "Modules",
+    "message": "Message et SMS",
+    "segmentation": "Segmentation",
+    "translate": "Traductions",
+    "customerGroup": "Groupes de clients",
+    "customerType": "Types de clients",
+    "modulesDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "messageDescription": "Consultation de la liste des Messages & SMS envoyés",
+    "segmentationDescription": "Paramétrage de la liste des segments & rôles",
+    "translateDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "customerGroupDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "customerTypeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus"
+  },
+  "translate": {
+    "title": "Traductions",
+    "titleDescription": "Insérez et gérez vos constantes facilement et rapidement !",
+    "listTitle": "Liste des constantes",
+    "addConstant": "Ajouter une nouvelle constante",
+    "editConstant": "Modifier une constante",
+    "searchConstant": "Chercher une constante",
+    "Nodata": "Aucune constante trouvée",
+    "successDelete": "La constante a été supprimé avec succès",
+    "successEdit": "La constante a été modifiée avec succès",
+    "successAdd": "La constante a été crée avec succès",
+    "constantExist": "Création non autorisée! cette constante de la traduction existe déjà",
+    "constantExistEdit": "Modification non autorisée! cette constante de la traduction existe déjà",
+    "input": {
+      "label": {
+        "constant": "Constante",
+        "value": "Valeur",
+        "type": "Type",
+        "source": "Source"
+      }
+    },
+    "select": {
+      "source": {
+        "controltower": "CONTROLTOWER",
+        "mobile": "MOBILE"
+      },
+      "type": {
+        "b2b": "B2B",
+        "b2c": "B2C"
+      }
+    }
+  },
+  "review": {
+    "hello": "Bonjour, ",
+    "header": "Ici vous pouvez configurer votre CMS ...",
+    "engageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "runDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "buildDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "configDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque."
+  },
+  "run": {
+    "title": "Run",
+    "description": "Insérez et gérez votre contenu de manière simple et rapide",
+    "history": "Historique d'actions",
+    "historyDescription": "Consulter le log des actions effectuées sur le SelfCare"
+  },
+  "communication": {
+    "title": "Message et SMS",
+    "titleDescription": "Insérez et gérez vos Messages et SMS facilement et rapidement !",
+    "listTitle": "Liste des Messages et SMS",
+    "addMessage": "Ajouter un nouveau message",
+    "messageDetail": "Détail message",
+    "input": {
+      "label": {
+        "title": "Titre",
+        "message": "Message",
+        "segment": "Segment",
+        "sms": "SMS",
+        "launchDate": "Date de lancement",
+        "source": "Source"
+      }
+    },
+    "addSMS": "Ajouter un nouveau SMS",
+    "searchCommunication": "Chercher un SMS & Message",
+    "successDelete": "a été supprimé avec succès",
+    "successEdit": "Le message a été modifiée avec succès",
+    "successAdd": "a été crée avec succès",
+    "successSend": "Le message a été envoyée avec succès",
+    "successSchedule": "Le message a été planifiée avec succès",
+    "successSave": "Le message a été sauvegardée avec succès",
+    "Nodata": "Aucun Message/SMS trouvé",
+    "detailSMS": "Détails SMS",
+    "channel": "Canal",
+    "launchDate": "Date de lancement",
+    "status": "Statut"
+  },
+  "offersFamilies": {
+    "title": "Familles d'offres",
+    "titleDescription": "Insérez et gérez vos Familles d'offres facilement et rapidement !",
+    "listTitle": "Liste des familles d'offres",
+    "noData": "Aucune famille d'offre trouvée",
+    "searchOffersFamily": "Chercher une famille d'offres",
+    "successDelete": "La famille d'offres a été supprimé avec succées",
+    "successAdd": "La famille d'offres a été ajouté avec succées",
+    "successEdit": "La famille d'offres a été modifié avec succées",
+    "all": "Tous",
+    "addOffersFamily": "Ajouter une nouvelle famille d'offres",
+    "type": {
+      "b2b": "B2B",
+      "b2c": "B2C"
+    },
+    "input": {
+      "label": {
+        "key": "Clé",
+        "title": "Titre",
+        "type": "Type",
+        "product": "Produit",
+        "fidelityType": "Type de fidélité",
+        "image": "Image",
+        "id": "ID"
+      },
+      "internet": "Internet",
+      "mobile": "Mobile"
+    },
+    "editOffersFamily": "Modifier une famille d'offres",
+    "keyExist": "Création non autorisée! ce code de la famille d'offre existe déjà",
+    "deleteErrorCredit": "Suppression non autorisée! cette famille d'offre est liée à un crédit",
+    "deleteErrorOffer": "Suppression non autorisée! cette famille d'offre est liée à une offre"
+  },
+  "offer": {
+    "title": "Offres",
+    "titleDescription": "Insérez et gérez vos offres facilement et rapidement !",
+    "listTitle": "Liste des offres",
+    "titletable": "Titre",
+    "key": "Clé",
+    "family": "Famille",
+    "delete": "Supprimer",
+    "parameter": "Offre à paramètre",
+    "searchoffre": "Chercher un offre",
+    "successDelete": "Offre a été supprimé avec succès",
+    "successEdit": "Offre a été modifiée avec succès",
+    "successAdd": " Offre a été crée avec succès",
+    "Nodata": "Aucune offre trouvée",
+    "addoffer": "Ajouter une nouvelle offre",
+    "addofferparams": "Ajouter une nouvelle offre à paramètre +",
+    "value": "Titre",
+    "yes": "Oui",
+    "no": "Non",
+    "listparams": "Liste des paramètres:",
+    "addparams": "Ajouter une nouvelle offre à paramètre +",
+    "services": "Service",
+    "valueparams": "Valeur de paramètre",
+    "code": "Code de paramètre",
+    "service": "Services",
+    "createAdvantage": "Ajouter un avantage +",
+    "deleteAdvantage": "supprimer l'avantage",
+    "offerchange": "Offre à paramètre",
+    "listAdvantages": "Liste des avantages: ",
+    "advantage": "Avantage:",
+    "offerparamTitle": "Offre à paramètre:",
+    "changesoffre": "Réabonnement et changement d’offre",
+    "editoffer": "Modifier un offre",
+    "keyExist": "Création non autorisée! ce code d'offre existe déjà",
+    "deleteErrorOption": "Suppression non autorisée! cette offre est liée à une option",
+    "deleteErrorPermission": "Suppression non autorisée! cette offre est liée à une permission",
+    "deleteErrorVariable": "Suppression non autorisée! cette offre est liée à une variable"
+  },
+  "service": {
+    "title": "Services",
+    "titleDescription": "Insérez et gérez vos services facilement et rapidement !",
+    "listTitle": "Liste des services",
+    "addService": "Ajouter un nouveau Service",
+    "searchService": "Chercher un service",
+    "successDelete": " Service a été supprimé avec succès",
+    "Nodata": "Aucun service trouvé",
+    "successEdit": "Service a été modifié avec succès",
+    "successAdd": "Service a été ajouté avec succès",
+    "editService": "Modifier un service",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "keyExist": "Création non autorisée! ce code du service existe déjà",
+    "input": {
+      "label": {
+        "type": "Type",
+        "key": "Clé",
+        "title": "Titre",
+        "description": "Description",
+        "msgSuccess": "Message de succées",
+        "msgFail": "Message d'échec",
+        "showService": "Montrer le service",
+        "enableButton": "Activer le bouton",
+        "massiveActivation": "Activation massive"
+      },
+      "radio": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "select": {
+        "b2b": "B2B",
+        "b2c": "B2C"
+      }
+    }
+  },
+  "credit": {
+    "title": "Crédit",
+    "titleDescription": "Insérez et gérez vos crédits facilement et rapidement !",
+    "listTitle": "Liste des crédits",
+    "addCredit": "Ajouter un nouveau crédit",
+    "editCredit": "Modifier un crédit",
+    "successAdd": "Crédit ajouté avec succès",
+    "code": "Code",
+    "searchCredit": "Chercher un credit",
+    "successDelete": " Credit a été supprimé avec succès",
+    "Nodata": "Aucun credit trouvé",
+    "successEdit": "Crédit modifié avec succès",
+    "keyExist": "Création non autorisée! ce code du credit existe déjà",
+    "keyExistEdit": "Mondification non autorisée! ce code du credit existe déjà",
+    "add": "Ajouter",
+    "edit": "Modifier",
+    "input": {
+      "label": {
+        "type": "Type",
+        "code": "Code",
+        "buyOptionsWs": "Acheter des options WS",
+        "recurrentOptionId": "ID d'option récurrente",
+        "name": "Nom",
+        "description": "Description",
+        "unit": "Unité",
+        "validity": "Validité",
+        "order": "Ordre",
+        "unauthorizedFamily": "Ne pas afficher pour les familles",
+        "showIfDateInvalid": "Afficher après fin de validité pour toutes les offres",
+        "showIfDateInvalidForOffers": "Afficher après la fin de validité des offres",
+        "showInBalance": "Afficher dans le suivi de la consommation",
+        "showProgressBar": "Afficher la barre de progression",
+        "showValidityDate": "Afficher la date de validité",
+        "volumeConversion": "Conversion de volume",
+        "showForOffers": "Afficher pour les offres"
+      },
+      "radio": {
+        "yes": "Oui",
+        "no": "Non"
+      }
+    }
+  },
+  "package": {
+    "title": "Forfaits",
+    "titleDescription": "Insérez et gérez vos forfaits facilement et rapidement !",
+    "listTitle": "Liste des forfaits",
+    "addPackage": "Ajouter un nouveau forfait",
+    "editPackage": "Modifier un forfait",
+    "successAdd": "Forfait ajouté avec succées",
+    "successEdit": "Forfait modifié avec succées",
+    "successDelete": "Forfait supprimé avec succées",
+    "noData": "Aucun forfait trouvé",
+    "search": "Chercher un forfait",
+    "input": {
+      "label": {
+        "key": "Clé",
+        "shdes": "SHDES",
+        "name": "Nom",
+        "image": "Image",
+        "description": "Description",
+        "actions": "Actions",
+        "prmValue": "Valeur de PRM",
+        "prmDescription": "Description de PRM",
+        "migrationPackages": "Migration des forfaits",
+        "subjectCode": "Code de sujet",
+        "queue": "Queue"
+      }
+    },
+    "keyExist": "Création non autorisée! ce code du forfait existe déjà",
+    "b2b": "B2B",
+    "b2c": "B2C"
+  },
+  "categoryDemand": {
+    "title": "Demande catégorie",
+    "titleDescription": "Insérez et gérez vos demandes catégories facilement et rapidement !",
+    "listTitle": "Liste des demandes catégories",
+    "addCategoryDemand": "Ajouter une nouvelle demande catégorie",
+    "editCategoryDemand": "Modifier une demande catégorie",
+    "successAdd": "Demande catégorie a été ajouté avec succées",
+    "successEdit": "Demande catégorie a été modifié avec succées",
+    "noData": "Aucun demande catégorie trouvé",
+    "successDelete": "Demande catégorie a été supprimé avec succès",
+    "searchCategoryDemand": "Chercher demande catégorie",
+    "all": "Tous",
+    "message": "Message",
+    "key": "Clé",
+    "value": "Valeur",
+    "keyExist": "Création non autorisée! ce code de la demande catégorie existe déjà"
+  },
+  "optionsFamilies": {
+    "title": "Familles d'option",
+    "titleDescription": "Insérez et gérez vos familles d'option facilement et rapidement !",
+    "listTitle": "Liste des familles d'option",
+    "addOptionsFamily": "Ajouter une nouvelle famille d'option",
+    "editOptionsFamily": "Modifier une famille d'option",
+    "successAdd": "Famille d'option a été ajouté avec succées",
+    "successEdit": "Famille d'option a été modifié avec succées",
+    "successDelete": "Famille d'option a été supprimé avec succées",
+    "searchOptionsFamilies": "Chercher une famille d'option",
+    "noData": "Aucune famille d'option trouvée",
+    "keyExist": "Création non autorisée! ce code de la famille d'option existe déjà",
+    "deleteError": "Suppression non autorisée! cette famille d'option est liée à une option",
+    "input": {
+      "label": {
+        "key": "Clé",
+        "title": "Titre",
+        "image": "Image",
+        "imageHover": "Image hover",
+        "id": "ID"
+      }
+    }
+  },
+  "loyaltyFamily": {
+    "title": "Familles de fidélités",
+    "titleDescription": "Insérez et gérez vos familles de fidélités facilement et rapidement !",
+    "listTitle": "Liste des familles de fidélités",
+    "addLoyaltyFamily": "Ajouter une nouvelle famille de fidélité",
+    "editLoyaltyFamily": "Modifier une famille de fidélité",
+    "successAdd": "Famille de fidélité a été ajouté avec succées",
+    "successEdit": "Famille de fidélité a été modifié avec succées",
+    "successDelete": "Famille de fidélité a été supprimé avec succées",
+    "searchLoyaltyFamily": "Chercher une famille de fidélité",
+    "noData": "Aucune famille de fidélité trouvée",
+    "keyExist": "Création non autorisée! ce code de la famille de fidélité existe déjà",
+    "deleteErrorLoyalty": "Suppression non autorisée! cette famille de fidélité est liée à une fidélité",
+    "input": {
+      "label": {
+        "id": "ID",
+        "key": "Clé",
+        "title": "Titre",
+        "image": "Image",
+        "imageHover": "Image hover"
+      }
+    }
+  },
+  "variables": {
+    "key": "Clé",
+    "titleDescription": "Insérez et gérez vos variables facilement et rapidement !",
+    "listTitle": "Liste des variables",
+    "title": "Variables",
+    "keyLabel": "Clé Label",
+    "offer": "Offres",
+    "value": "Valeur",
+    "addVaribales": "Ajouter une nouvelle variable",
+    "editVaribales": "Modifier une variable",
+    "type": {
+      "type": "Type de valeur",
+      "simple": "Simple",
+      "multiple": "Multiple",
+      "keyValue": "Clé/Valeur",
+      "offers": "Offres"
+    },
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "successAdd": "La variable a été créée avec succès",
+    "successEdit": "La variable a été modifiée avec succès",
+    "successDelete": "La variable a été supprimée avec succès",
+    "searchvariables": "Rechercher une variable",
+    "Nodata": "Aucunne variable trouvée",
+    "updated": "Modifiée le",
+    "created": "Créée par",
+    "keyExist": "Création non autorisée! ce code de la variable existe déjà"
+  },
+  "options": {
+    "title": "Options",
+    "titleDescription": "Insérez et gérez vos options facilement et rapidement !",
+    "listTitle": "Liste des options",
+    "code": "Code",
+    "addOption": "Ajouter une nouvelle option",
+    "editOption": "Modifier une option",
+    "name": "Nom",
+    "description": "Description",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "existed": "Création non autorisée! ce code de l'option existe déjà",
+    "successAdd": "L'options a été créée avec succès",
+    "successEdit": "L'options a été modifiée avec succès",
+    "successDelete": "L'options a été supprimée avec succès",
+    "searchoptions": "Rechercher une option",
+    "Nodata": "Aucunne option trouvée",
+    "hideForOffers": "Masquer l'option pour les offres",
+    "showForOffers": "Afficher l'option pour les offres",
+    "hideForOffersList": "Masquer (offres)",
+    "showForOffersList": "Afficher (offres)",
+    "family": "Famille",
+    "updated": "Modifiée le",
+    "created": "Créée par"
+  },
+  "offerService": {
+    "title": "Services d'offre",
+    "titleDescription": "Insérez et gérez vos services d'offre facilement et rapidement !",
+    "listTitle": "Liste des services d'offre",
+    "addOfferService": "Ajouter un nouveau service d'offre",
+    "editOfferService": "Modifier un service d'offre",
+    "successAdd": "Le service d'offre a été créée avec succès",
+    "successEdit": "Le service d'offre a été modifiée avec succès",
+    "successDelete": "Le service d'offre a été supprimée avec succès",
+    "searchOfferService": "Chercher un service d'offre",
+    "noData": "Aucun service d'offre trouvée",
+    "keyExist": "Création non autorisée! ce code de service d'offre existe déjà",
+    "deleteErrorOffer": "Suppression non autorisée! ce service d'offre est liée à une offre",
+    "input": {
+      "label": {
+        "id": "ID de service",
+        "key": "Description du service",
+        "offers": "Offers",
+        "value": "Description du service"
+      }
+    }
+  },
+  "loyalty": {
+    "title": "Fidélités",
+    "titleDescription": "Insérez et gérez vos fidélités facilement et rapidement !",
+    "listTitle": "Liste des fidélités",
+    "searchloyalty": "Chercher une fidélité",
+    "code": "Code",
+    "addLoyalty": "Ajouter une nouvelle fidélité",
+    "editLoyalty": "Modifier une fidélité",
+    "name": "Nom",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "existed": "Création non autorisée! ce code du fidélité existe déjà",
+    "successAdd": "La Fidélité a été créée avec succès",
+    "successEdit": "La Fidélité a été modifiée avec succès",
+    "successDelete": "La Fidélité a été supprimée avec succès",
+    "searchoptions": "Rechercher une Fidélité",
+    "Nodata": "Aucunne fidélité trouvée",
+    "family": "famille",
+    "unit": "Unité",
+    "updated": "Modifiée le",
+    "created": "Créée par"
+  },
+  "customerGroup": {
+    "title": "Groupes de clients",
+    "titleDescription": "Insérez et gérez vos groupes de clients facilement et rapidement !",
+    "listTitle": "Liste des groupes de clients",
+    "addCustomerGroup": "Ajouter un nouveau groupe de clients",
+    "editCustomerGroup": "Modifier un groupe de clients",
+    "successAdd": "Le groupe de clients a été créée avec succès",
+    "successEdit": "Le groupe de clients a été modifiée avec succès",
+    "successDelete": "Le groupe de clients a été supprimée avec succès",
+    "searchCustomerGroup": "Chercher un groupe de clients",
+    "noData": "Aucun groupe de clients trouvé",
+    "keyExist": "Création non autorisée! ce code du groupe de clients existe déjà",
+    "deleteErrorCustomerType": "Suppression non autorisée! ce groupe de client est liée à un type de client",
+    "input": {
+      "label": {
+        "key": "Clé",
+        "title": "Titre",
+        "type": "Type"
+      },
+      "select": {
+        "type": {
+          "b2b": "B2B",
+          "b2c": "B2C"
+        }
+      }
+    }
+  },
+  "customerType": {
+    "title": "Types de clients",
+    "addCustomerType": "Ajouter un nouveau type de clients",
+    "editCustomerType": "Modifier un type de clients",
+    "successAdd": "Le type de clients a été créée avec succès",
+    "successEdit": "Le type de clients a été modifiée avec succès",
+    "successDelete": "Le type de clients a été supprimée avec succès",
+    "searchCustomerType": "Chercher un type de clients",
+    "noData": "Aucun type de clients trouvé",
+    "keyExist": "Création non autorisée! ce code du type de client existe déjà",
+    "deleteErrorPermission": "Suppression non autorisée! ce type de client est liée à une permission",
+    "input": {
+      "label": {
+        "key": "Clé",
+        "title": "Titre",
+        "type": "Type",
+        "group": "Groupe"
+      },
+      "select": {
+        "type": {
+          "b2b": "B2B",
+          "b2c": "B2C"
+        }
+      }
+    }
+  },
+  "extrafields": "Extrafields"
+}

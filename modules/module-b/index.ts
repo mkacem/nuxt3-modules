@@ -13,6 +13,7 @@ export default defineNuxtModule({
         path: '/module-b',
         file: path.resolve(__dirname, './pages/index.vue'),
       })
+      console.log(pages)
     }
   },
   async setup(moduleOptions, nuxt) {

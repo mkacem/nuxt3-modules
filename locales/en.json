@@ -1,0 +1,606 @@
+{
+  "hi":"qsqs nuxt",
+  "languageCreate": "Create a new language",
+  "addCategory": "Create a new Category",
+  "Billed_To": "Billet To",
+  "titlePdfPage": "PDF generator",
+  "preview": "Preview",
+  "page":"Page",
+  "of":"of",
+  "Subtotal":"Subtotal",
+  "table": {
+    "pager": {
+      "page": "Page"
+    },
+    "filters": {
+      "ALL": "All",
+      "UNPUBLISHED": "Unpublished",
+      "PUBLISHED": "Published",
+      "B2B": "B2B",
+      "B2C": "B2C",
+      "SMS": "SMS",
+      "MESSAGE": "Message",
+      "noFilter": ""
+    }
+  },
+  "menu": {
+    "review": "Review",
+    "build": "Build",
+    "engage": "Engage",
+    "run": "Run",
+    "config": "Config"
+  },
+  "insertManage": "Insert and manage your ",
+  "easlyquick": " easily and fastly !",
+  "languageTitle": "Languages",
+  "back": "Back",
+  "languageAll": "All languages",
+  "languageSearch": "Search language",
+  "languageNoData": "No languages found",
+  "code": "Iso Code",
+  "name": "Name",
+  "save": "Save",
+  "cancel": "Cancel",
+  "key": "Key",
+  "type": "Type",
+  "title": "Title",
+  "group": "Group",
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete",
+  "languageAddTitle": "Language",
+  "languageSelect": "Language",
+  "image": "Image",
+  "imageHover": "Image hover",
+  "languageEdit": "Edit Language",
+  "required": "This field is required",
+  "error": "Server error",
+  "success": "Success",
+  "addCategories": "Create a category",
+  "all": "All",
+  "published": "Published",
+  "unpublished": "Unpublished",
+  "picto": "Picto",
+  "arrayName": "Name",
+  "updated": "Modified on",
+  "created": "Created by",
+  "formInputName": "Name",
+  "formInputDescription": "Description",
+  "numberoflines": "Number of lines",
+  "selected": "Selected items",
+  "publish": "Publish",
+  "unpublish": "Unpublish",
+  "activated": "Activate",
+  "deactivated": "Deactivate",
+  "send": "Send",
+  "sureDelete": "Are you sure you want to delete ?",
+  "sureActivated": "Are you sure you want activate ?",
+  "sureDeactivated": "Are you sure you want deactivate ?",
+  "surePublish": "Are you sure you want publish ?",
+  "sureUnpublish": "Are you sure you want unpublish ?",
+  "notAvailable": "Not available",
+  "upload": "Upload",
+  "dateFormat": "MM/DD/YYYY HH:mm",
+  "build": {
+    "title": "Build",
+    "description": "Insert and manage your content easly and fastly !",
+    "offers": "Offers",
+    "services": "Services",
+    "credit": "Credit",
+    "packages": "Packages",
+    "variables": "Variables",
+    "category": "Category demand",
+    "offersFamilies": "Offers families",
+    "optionFamily": "Option families",
+    "loyaltyFamily": "Loyalty families",
+    "options": "Options",
+    "loyalty": "Loyalty",
+    "offerService": "Offer services",
+    "loyaltyDescription": "Configuration of the loyalty",
+    "optionsDescription": "Configuration of the options",
+    "offersDescription": "Configuration of the mobile offers to be offered to the customer",
+    "servicesDescription": "Configuration of the mobile services to be offered to the customer",
+    "creditDescription": "Set up promotions on Mobile offers and services",
+    "packagesDescription": "Configuration of the mobile plans to be offered to the customer",
+    "variablesDescription": "Parameterization of Variables",
+    "categoryDescription": "Category settings",
+    "offersFamiliesDescription": "Configuration of offers families",
+    "optionFamilyDescription": "Configuration of option families",
+    "loyaltyFamilyDescription": "Configuration of loyalties families",
+    "offerServiceDescription": "Configuration of offer services"
+  },
+  "engage": {
+    "title": "Engage",
+    "description": "Insert and manage your content easly and fastly !",
+    "media": "Media and banners",
+    "campaign": "Campaign and communication",
+    "mediaDescription": "Configuration of Banners (Consult the configured banners, addition, modification, deletion, publication ... of banners / media)",
+    "campaignDescription": "Configuration of communication campaigns with the message to be sent, the channel, etc. (addition, modification and deletion)"
+  },
+  "config": {
+    "title": "Config",
+    "description": "Insert and manage your content easly and fastly !",
+    "modules": "Modules",
+    "message": "Message and SMS",
+    "segmentation": "Segmentation",
+    "translation": "Translations",
+    "customerGroup": "Customers groups",
+    "customerType": "Customers types",
+    "modulesDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "messageDescription": "Viewing the list of sent Message & SMS",
+    "segmentationDescription": "Setting up the list of segments & roles",
+    "translationDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "customerGroupDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus",
+    "customerTypeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet vulputate purus et finibus"
+  },
+  "translate": {
+    "title": "Translations",
+    "addConstant": "Add constant",
+    "titleDescription": "Insert and manage your constants easily and fastly !",
+    "listTitle": "List of constants",
+    "editConstant": "Edit constant",
+    "searchConstant": "Search constant",
+    "Nodata": "No constants found",
+    "successDelete": "Constant deleted successfully",
+    "successEdit": "Constant edited successfully",
+    "successAdd": "Constant added successfully",
+    "constantExist": "Unauthorized creation! this translation constant already exists",
+    "constantExistEdit": "Unauthorized modification! this translation constant already exists",
+    "input": {
+      "label": {
+        "constant": "Constant",
+        "value": "Value",
+        "type": "Type",
+        "source": "Source"
+      }
+    },
+    "select": {
+      "source": {
+        "controltower": "CONTROLTOWER",
+        "mobile": "MOBILE"
+      },
+      "type": {
+        "b2b": "B2B",
+        "b2c": "B2C"
+      }
+    }
+  },
+  "review": {
+    "hello": "Hello there, ",
+    "header": "Here you can configure your CMS...",
+    "engageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "runDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "buildDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque.",
+    "configDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae dolor vitae neque."
+  },
+  "run": {
+    "title": "Run",
+    "description": "Insert and manage your content easly and fastly !",
+    "history": "History of actions",
+    "historyDescription": "Consult the log of actions performed on SelfCare"
+  },
+  "communication": {
+    "title": "Message and SMS",
+    "addMessage": "Add message",
+    "messageDetail": "Message detail",
+    "input": {
+      "label": {
+        "title": "Title",
+        "message": "Message",
+        "segment": "Segment",
+        "sms": "SMS",
+        "launchDate": "Launch date"
+      }
+    },
+    "addSMS": "Add SMS",
+    "titleDescription": "Insert and manage your Message and SMS easily and fastly !",
+    "listTitle": "List of Messages and SMS",
+    "searchCommunication": "Search SMS & Message",
+    "successDelete": "deleted successfully",
+    "successEdit": "Message edited successfully",
+    "successAdd": "added successfully",
+    "successSend": "Message sent successfully",
+    "successSchedule": "Message scheduled successfully",
+    "successSave": "Message saved successfully",
+    "Nodata": "No message or SMS found",
+    "detailSMS": "SMS details",
+    "channel": "Channel",
+    "launchDate": "Launch date",
+    "status": "Status"
+  },
+  "offersFamilies": {
+    "title": "Offers families",
+    "noData": "No offer families found",
+    "titleDescription": "Insert and manage your offers families easily and fastly !",
+    "listTitle": "List of offers families",
+    "searchOffersFamily": "Search offers family",
+    "successDelete": "Offers family deleted successfully",
+    "successAdd": "Offers family added successfully",
+    "successEdit": "Offers family edited successfully",
+    "all": "All",
+    "addOffersFamily": "Add offers family",
+    "input": {
+      "label": {
+        "key": "Key",
+        "title": "Title",
+        "type": "Type",
+        "product": "Product",
+        "fidelityType": "Fidelity type",
+        "image": "Image",
+        "id": "ID"
+      },
+      "internet": "Internet",
+      "mobile": "Mobile"
+    },
+    "editOffersFamily": "Edit offers family",
+    "keyExist": "Unauthorized creation! this offer family code already exists",
+    "deleteErrorCredit": "Deletion not allowed! this offer family is linked to a credit",
+    "deleteErrorOffer": "Deletion not allowed! this offer family is linked to an offer"
+  },
+  "offer": {
+    "title": "Offers",
+    "titletable": "Title",
+    "key": "Key",
+    "family": "Family",
+    "titleDescription": "Insert and manage your offers easily and fastly !",
+    "listTitle": "List of offers",
+    "parameter": "parameter offer",
+    "searchoffre": "Search a offer",
+    "successDelete": "Offer deleted successfully",
+    "successEdit": "Offer edited successfully",
+    "successAdd": "Offer added successfully",
+    "Nodata": "No offers found",
+    "addoffer": "Add offre",
+    "delete": "Delete",
+    "addofferparams": "Add a new offer's parameter +",
+    "value": "Title",
+    "yes": "Yes",
+    "no": "No",
+    "listparams": "List of parameters:",
+    "addparams": "Add a new offer's parameter +",
+    "services": "Service",
+    "valueparams": "Parameter value",
+    "code": "Parameter code",
+    "service": "Services",
+    "createAdvantage": "Add a benefit +",
+    "deleteAdvantage": "Delete benefit",
+    "offerchange": "Offer's parameter",
+    "listAdvantages": "List of benefits: ",
+    "advantage": "Benefit:",
+    "offerparamTitle": "Offer's parameter:",
+    "changesoffre": "Resubscription and change of offer",
+    "editoffer": "Edit offer",
+    "keyExist": "Unauthorized creation! this offer code already exists",
+    "deleteErrorOption": "Deletion not allowed! this offer is linked to an option",
+    "deleteErrorPermission": "Deletion not allowed! this offer is linked to a permission",
+    "deleteErrorVariable": "Deletion not allowed! this offer is linked to a variable"
+  },
+  "service": {
+    "title": "Service",
+    "listTitle": "List of services",
+    "addService": "Add service",
+    "titleDescription": "Insert and manage your services and fastly !",
+    "editService": "Edit service",
+    "successAdd": "Service added successfully",
+    "searchService": "Search service",
+    "successDelete": " Credit deleted successfully",
+    "Nodata": "No services found",
+    "successEdit": "Credit edited successfully",
+    "add": "Add",
+    "edit": "Edit",
+    "keyExist": "Unauthorized creation! this service code already exists",
+    "input": {
+      "label": {
+        "type": "Type",
+        "key": "Key",
+        "title": "Title",
+        "description": "Description",
+        "msgSuccess": "Success message",
+        "msgFail": "Fail message",
+        "showService": "Show service",
+        "enableButton": "Enable button",
+        "massiveActivation": "Massive activation"
+      },
+      "radio": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "select": {
+        "b2b": "B2B",
+        "b2c": "B2C"
+      }
+    }
+  },
+  "credit": {
+    "title": "Credit",
+    "listTitle": "List of credits",
+    "addCredit": "Add credit",
+    "titleDescription": "Insert and manage your credits and fastly !",
+    "editCredit": "Edit credit",
+    "successAdd": "Credit added successfully",
+    "code": "Code",
+    "searchCredit": "Search credit",
+    "successDelete": " Credit deleted successfully",
+    "Nodata": "No Credits found",
+    "successEdit": "Credit edited successfully",
+    "add": "Add",
+    "edit": "Edit",
+    "keyExist": "Unauthorized creation! this credit code already exists",
+    "keyExistEdit": "Unauthorized modification! this credit code already exists",
+    "input": {
+      "label": {
+        "type": "Type",
+        "code": "Code",
+        "buyOptionsWs": "Buy Options WS",
+        "recurrentOptionId": "Recurrent Option ID",
+        "name": "Name",
+        "description": "Description",
+        "unit": "Unit",
+        "validity": "Validity",
+        "order": "Order",
+        "unauthorizedFamily": "Do not display for families",
+        "showIfDateInvalid": "Show after end of validity for all offers",
+        "showIfDateInvalidForOffers": "Show after end of validity for offers",
+        "showInBalance": "Show in consumption monitoring",
+        "showProgressBar": "Show progressbar",
+        "showValidityDate": "Show validity date",
+        "volumeConversion": "Volume conversion",
+        "showForOffers": "Show for offers"
+      },
+      "radio": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "select": {
+        "b2b": "B2B",
+        "b2c": "B2C"
+      }
+    }
+  },
+  "package": {
+    "title": "Packages",
+    "addPackage": "Add package",
+    "editPackage": "Edit package",
+    "titleDescription": "Insert and manage your packages and fastly !",
+    "listTitle": "List of packages",
+    "successAdd": "Package added successfully",
+    "successEdit": "Package edited successfully",
+    "successDelete": "Package deleted succesfully",
+    "noData": "No package found",
+    "search": "Search package",
+    "input": {
+      "label": {
+        "key": "Key",
+        "shdes": "SHDES",
+        "name": "Name",
+        "image": "Image",
+        "description": "Description",
+        "actions": "Actions",
+        "prmValue": "PRM value",
+        "prmDescription": "PRM description",
+        "migrationPackages": "Migration packages",
+        "subjectCode": "Subject code",
+        "queue": "Queue"
+      }
+    },
+    "keyExist": "Unauthorized creation! this package code already exists",
+    "b2b": "B2B",
+    "b2c": "B2C"
+  },
+  "categoryDemand": {
+    "title": "Category demand",
+    "addCategoryDemand": "Add category demand",
+    "editCategoryDemand": "Edit category demand",
+    "titleDescription": "Insert and manage your category demands and fastly !",
+    "listTitle": "List of category demands",
+    "successAdd": "Category demand added successfully",
+    "successEdit": "Category demand edited successfully",
+    "noData": "No category demand found",
+    "successDelete": "Category demand deleted successfully",
+    "searchCategoryDemand": "Search a category demand",
+    "all": "All",
+    "message": "Message",
+    "key": "Key",
+    "value": "Value",
+    "keyExist": "Unauthorized creation! this category demand code already exists"
+  },
+  "optionsFamilies": {
+    "title": "Option families",
+    "addOptionsFamily": "Add option family",
+    "editOptionsFamily": "Edit option family",
+    "titleDescription": "Insert and manage your options famillies and fastly !",
+    "listTitle": "List of options famillies",
+    "successAdd": "Option family added successfully",
+    "successEdit": "Option family edited successfully",
+    "successDelete": "Option family deleted successfully",
+    "searchOptionsFamilies": "Search option family",
+    "noData": "No option family found",
+    "keyExist": "Unauthorized creation! this option family code already exists",
+    "deleteError": "Deletion not allowed! this offer family is linked to an option",
+    "input": {
+      "label": {
+        "id": "ID",
+        "key": "Key",
+        "title": "Title",
+        "image": "Image",
+        "imageHover": "Image hover"
+      }
+    }
+  },
+  "loyaltyFamily": {
+    "title": "Loyalty families",
+    "addLoyaltyFamily": "Add loyalty families",
+    "editLoyaltyFamily": "Edit loyalty families",
+    "titleDescription": "Insert and manage your Loyalty families and fastly !",
+    "listTitle": "List of Loyalty families",
+    "successAdd": "Loyalty families added successfully",
+    "successEdit": "Loyalty families edited successfully",
+    "successDelete": "Loyalty families deleted successfully",
+    "searchLoyaltyFamily": "Search loyalty families",
+    "noData": "No loyalty families found",
+    "keyExist": "Unauthorized creation! this loyalty family code already exists",
+    "deleteErrorLoyalty": "Deletion not allowed! this loyalty family is linked to a loyalty",
+    "input": {
+      "label": {
+        "key": "Key",
+        "title": "Title",
+        "image": "Image",
+        "imageHover": "Image hover",
+        "id": "ID"
+      }
+    }
+  },
+  "variables": {
+    "key": "Key",
+    "title": "Variables",
+    "keyLabel": "Key label",
+    "titleDescription": "Insert and manage your variables and fastly !",
+    "listTitle": "List of variables",
+    "offer": "Offers",
+    "value": "Value",
+    "addVaribales": "Add variable",
+    "editVaribales": "Edit variable",
+    "type": {
+      "type": "Value Type",
+      "simple": "Simple",
+      "multiple": "Multiple",
+      "keyValue": "Key/Value",
+      "offers": "Offers"
+    },
+    "edit": "Edit",
+    "add": "Add",
+    "successAdd": "Variable added successfully",
+    "successEdit": "Variable edited successfully",
+    "successDelete": "Variable deleted successfully",
+    "Nodata": "No variable Found",
+    "searchvariables": "Search a variable",
+    "updated": "Edited on",
+    "created": "Created by",
+    "keyExist": "Unauthorized creation! this variable code already exists"
+  },
+  "options": {
+    "title": "Options",
+    "code": "Code",
+    "addOption": "Add option",
+    "titleDescription": "Insert and manage your options and fastly !",
+    "listTitle": "List of options",
+    "editOption": "Edit option",
+    "name": "Name",
+    "description": "Description",
+    "edit": "Edit",
+    "add": "Add",
+    "hideForOffers": "Hide the option for offers",
+    "showForOffers": "Show the option for offers",
+    "hideForOffersList": "Hide (offers)",
+    "showForOffersList": "Show (offers)",
+    "family": "Family",
+    "Nodata": "No option Found",
+    "existed": "Unauthorized creation! this option code already exists",
+    "successAdd": "Option added successfully",
+    "successEdit": "Option edited successfully",
+    "successDelete": "Option deleted successfully",
+    "searchoptions": "Search a option",
+    "updated": "Edited on",
+    "created": "Created by"
+  },
+  "offerService": {
+    "title": "Offer service",
+    "titleDescription": "Insert and manage your offer services and fastly !",
+    "listTitle": "List of offer services",
+    "addOfferService": "Add offer service",
+    "editOfferService": "Edit offer service",
+    "successAdd": "Offer service added successfully",
+    "successEdit": "Offer service edited successfully",
+    "successDelete": "Offer service deleted successfully",
+    "searchOfferService": "Search offer service",
+    "noData": "No offer service found",
+    "keyExist": "Unauthorized creation! this offer service code already exists",
+    "deleteErrorOffer": "Deletion not allowed! this offer service is linked to an offer",
+    "input": {
+      "label": {
+        "id": "Service ID",
+        "key": "Service description",
+        "offers": "Offers",
+        "value": "Service description"
+      }
+    }
+  },
+  "loyalty": {
+    "title": "Loyalty",
+    "code": "Code",
+    "titleDescription": "Insert and manage your loyalty and fastly !",
+    "listTitle": "List of loyalty",
+    "addLoyalty": "Add loyalty",
+    "editLoyalty": "Edit loyalty",
+    "searchloyalty": "Search loyalty",
+    "name": "Name",
+    "edit": "Edit",
+    "add": "Add",
+    "existed": "Unauthorized creation! this loyalty code already exists",
+    "successAdd": "Loyalty added successfully",
+    "successEdit": "Loyalty edited successfully",
+    "Nodata": "No loyalty Found",
+    "successDelete": "Loyalty deleted successfully",
+    "searchoptions": "Rechercher une Fidélité",
+    "family": "Family",
+    "unit": "Unit",
+    "updated": "Edited on",
+    "created": "Created by"
+  },
+  "customerGroup": {
+    "title": "Customers groups",
+    "titleDescription": "Insert and manage your customers groups and fastly !",
+    "listTitle": "List of customers groups",
+    "addCustomerGroup": "Add customer group",
+    "editCustomerGroup": "Edit customer group",
+    "successAdd": "Customer group added successfully",
+    "successEdit": "Customer group edited successfully",
+    "successDelete": "Customer group deleted successfully",
+    "searchCustomerGroup": "Search customer group",
+    "noData": "No customer group found",
+    "keyExist": "Unauthorized creation! this customer group code already exists",
+    "deleteErrorCustomerType": "Deletion not allowed! this customer group is linked to a customer type",
+    "input": {
+      "label": {
+        "key": "Key",
+        "title": "Title",
+        "type": "Type"
+      },
+      "select": {
+        "type": {
+          "b2b": "B2B",
+          "b2c": "B2C"
+        }
+      }
+    }
+  },
+  "customerType": {
+    "title": "Customers types",
+    "addCustomerType": "Add customer type",
+    "titleDescription": "Insert and manage your customers types and fastly !",
+    "listTitle": "List of customers types",
+    "editCustomerType": "Edit customer type",
+    "successAdd": "Customer type added successfully",
+    "successEdit": "Customer type edited successfully",
+    "successDelete": "Customer type deleted successfully",
+    "searchCustomerType": "Search customer type",
+    "noData": "No customer type found",
+    "keyExist": "Unauthorized creation! this customer type code already exists",
+    "deleteErrorPermission": "Deletion not allowed! this customer type is linked to a permission",
+    "input": {
+      "label": {
+        "key": "Key",
+        "title": "Title",
+        "type": "Type",
+        "group": "Group"
+      },
+      "select": {
+        "type": {
+          "b2b": "B2B",
+          "b2c": "B2C"
+        }
+      }
+    }
+  },
+  "extrafields": "Extrafields"
+}

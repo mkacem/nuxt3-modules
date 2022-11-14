@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h2>Module B</h2>
+    <h2>{{$t('hi')}} Module B</h2>
+    <router-link :to="localePath('module-a')">module A</router-link><br>
     <Article />
   </div>
 </template>
